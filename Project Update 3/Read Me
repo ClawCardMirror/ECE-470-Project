@@ -1,1 +1,14 @@
 Read Me for Project Update 3
+
+## Method
+1. Place a **UR5** robot arm
+2. Determine the working area
+3. Set 
+   * wall
+   * cup
+   * destination
+4. Move
+   * the end effector of UR5 should keep this glass vertical
+   * the height of wall is known and its height should not block UR5 movement
+5. Set up six sets of joint angles for the UR5 robot to move in a desired route
+6. Set up a range for the robot movement speed and acceleration
