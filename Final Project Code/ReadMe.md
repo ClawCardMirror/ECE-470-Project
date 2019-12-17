@@ -16,5 +16,5 @@ We tentatively select this topic for project, tentatively use Gazebo for simulat
 https://youtu.be/mFaUeI3pl-A
 
 ## Code ReadMe
-File Code.txt includes the main code for V-REP simulator.
-File Setup.ttt includes the simulator environment setup for V-REP simulator.
+* File Code.txt includes the main code for V-REP simulator.
+* File Setup.ttt includes the simulator environment setup for V-REP simulator.
