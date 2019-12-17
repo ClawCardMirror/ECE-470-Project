@@ -1,4 +1,4 @@
-# Project Topic : Pick and Place based on Color Visual Recognition
+# Project : Pick and Place based on Color Visual Recognition
 
 ## Team Name
 MIKU IS CUTE
